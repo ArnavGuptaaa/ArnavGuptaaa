@@ -27,7 +27,7 @@
 </p>
 
 <h2 align="center">
-    Languages
+    Languages I Work With
 </h2>
 
 <p align="center">
