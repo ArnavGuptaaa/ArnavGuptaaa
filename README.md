@@ -1,6 +1,7 @@
 <h1 align="center">
     Hey! I am Nav👋
     <br />
+    <br />
     <p align="center">
         <a href="mailto:arnavrgutpa002@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -24,8 +25,6 @@
 <p align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&vCenter=true&multiline=true&width=700&height=150&lines=%F0%9F%92%BB+I+am+a+frontend+developer;%F0%9F%93%9A+I+want+to+learn+backend+technologies;%E2%98%81%EF%B8%8F+Cloud+enthusiast;%F0%9F%99%8C+I+am+open+to+collaborate+on+projects">
 </p>
-
-<br />
 
 <h2 align="center">
     Languages
