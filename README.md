@@ -48,5 +48,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavGuptaaa&show_icons=true&theme=github_dark&layout=compact"/>
+    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=ArnavGuptaaa&show_icons=true&theme=github_dark">
 </p>
