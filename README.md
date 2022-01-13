@@ -1,7 +1,6 @@
 <h1 align="center">
     Hey! I am Nav👋
     <br />
-    <br />
     <p align="center">
         <a href="mailto:arnavrgutpa002@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -22,8 +21,11 @@
     About Myself
 </h2>
 
-<p align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2348F74C&size=25&multiline=true&width=750&height=150&lines=%F0%9F%92%BB+I+am+a+frontend+developer;%F0%9F%93%9A+I+want+to+learn+backend+technologies;%E2%98%81%EF%B8%8F+Cloud+Enthusiast;%F0%9F%99%8C+I+am+open+to+collaborate+on+projects">
+<p>
+    💻 Frontend developer (React.js / Next.js) <br />
+    📚 I want to learn backend technologies <br />
+    ☁️ Cloud Enthusiast <br />
+    🙌 Open to collaborate
 </p>
 
 <h2 align="center">
@@ -47,7 +49,5 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavGuptaaa&show_icons=true&theme=github_dark&layout=compact"/>
-    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=ArnavGuptaaa&show_icons=true&theme=github_dark">
 </p>
