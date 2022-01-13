@@ -30,11 +30,11 @@
     </font>
 </p>
 
-<h2 align="center">
+<h2 >
     Languages I Work With
 </h2>
 
-<p align="center">
+<p >
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -46,10 +46,10 @@
 
 <br />
 
-<h2 align="center">
+<h2 >
     My GitHub Stats
 </h2>
 
-<p align="center">
+<p >
     <img src="https://github-readme-stats.vercel.app/api?username=ArnavGuptaaa&show_icons=true&theme=github_dark">
 </p>
