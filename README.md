@@ -12,9 +12,9 @@
             <img src="https://img.shields.io/badge/CoderNav-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
         </a>
     </p>
-    <p align="center"> 
+    <!-- <p align="center"> 
         <img src="https://komarev.com/ghpvc/?username=ArnavGuptaaa&label=Profile%20views&color=0e75b6&style=flat&color=success"/>
-    </p>
+    </p> -->
 </h1>
 
 <h2 align="center">
@@ -22,10 +22,12 @@
 </h2>
 
 <p>
-    💻 Frontend developer (React.js / Next.js) <br />
-    📚 I want to learn backend technologies <br />
-    ☁️ Cloud Enthusiast <br />
-    🙌 Open to collaborate
+    <font size="4">
+        💻 Frontend developer (React.js / Next.js) <br />
+        📚 I want to learn backend technologies <br />
+        ☁️ Cloud Enthusiast <br />
+        🙌 Open to collaborate
+    </font>
 </p>
 
 <h2 align="center">
