@@ -17,7 +17,7 @@
     </p> -->
 </h1>
 
-<h2 align="center">
+<h2>
     About Myself
 </h2>
 
