@@ -1,6 +1,7 @@
 <h1 align="center">
     Hey! I am Nav👋
     <br />
+    <br />
     <p align="center">
         <a href="mailto:arnavrgutpa002@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
