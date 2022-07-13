@@ -12,9 +12,9 @@
 
 <p>
     <font size="4">
-        💻 Frontend developer (React.js / Next.js) <br />
-        📚 I want to learn backend technologies <br />
-        ☁️ Cloud Enthusiast <br />
+        💻 Full Stack developer (MERN) <br />
+        📚 Actively learning backend technologies  <br />
+        ☁️ Cloud technologies (Azure, AWS) <br />
         🙌 Open to collaborate
     </font>
 </p>
