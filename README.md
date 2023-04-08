@@ -40,9 +40,6 @@
     <a href="https://www.linkedin.com/in/arnavguptaa/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://twitter.com/CoderNav_">
-        <img src="https://img.shields.io/badge/CoderNav-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    </a>
 </p>
 
 <h2 >
